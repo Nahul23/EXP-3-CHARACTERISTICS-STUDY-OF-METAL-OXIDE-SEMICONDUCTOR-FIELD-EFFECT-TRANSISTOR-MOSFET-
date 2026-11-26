@@ -51,7 +51,8 @@ A. Transfer Characteristics
 S. No.	VGS (V)	VDS (V)	ID (mA)
 1			
 2			
-3			
+3			<img width="914" height="189" alt="WhatsApp Image 2026-11-26 at 11 33 22 AM (1)" src="https://github.com/user-attachments/assets/83965ded-eba4-425c-bea7-1d65ffc07cec" />
+
 4			
 5			
 6			
@@ -62,7 +63,8 @@ B. Drain Characteristics
 S. No.	VDS (V)	VGS (V)	ID (mA)
 1			
 2			
-3			
+3			<img width="936" height="190" alt="WhatsApp Image 2026-11-26 at 11 33 22 AM (2)" src="https://github.com/user-attachments/assets/ea2218cb-887f-488e-a3d6-af5ac1d1e7e0" />
+
 4			
 5			
 6			
@@ -75,13 +77,7 @@ Simulation Results
 
 
 
-8. CALCULATIONS
-Transconductance:
-gm = ΔID / ΔVGS
-Therefore,  gm = __________________ S
-Drain Resistance:
-rd = ΔVDS / ΔID
-Therefore,  rd = __________________ Ω
+
 9. RESULT
 Thus, the drain and transfer characteristics of the MOSFET were simulated using LTspice. The values of transconductance (gm) and drain resistance (rd) were determined from the respective characteristics.
 gm = __________________ S
